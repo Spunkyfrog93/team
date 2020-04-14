@@ -4,4 +4,4 @@ As a manager
 I want to generate a webpage that displays my team's basic info
 so that I have quick access to emails and GitHub profiles
 
-I used the starter code used inquirer and jest. 
+I used the starter code and used npm install inquirer and jest. 
